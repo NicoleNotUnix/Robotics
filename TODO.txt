@@ -1,0 +1,3 @@
+- GMAPPING tutorial is making a map around the room (DONE)
+- Set up wander so that the turtle bot wanders ()
+- Turn this into one launch file / package ()
